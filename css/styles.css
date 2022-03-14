@@ -190,6 +190,7 @@ p {
   }
 
   .title-image-container {
+    padding-top: 1rem;
     position: static;
   }
 
