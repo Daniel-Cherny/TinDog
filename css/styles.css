@@ -189,6 +189,10 @@ p {
     text-align: center;
   }
 
+  .navbar {
+    padding: 0 0 4rem 0;
+  }
+
   .title-image-container {
     padding-top: 1rem;
     position: static;
@@ -199,4 +203,22 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  #features .container-fluid {
+    padding-top: 3.5rem;
+  }
+
+  .testimonial-text {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+
+  .cta-heading {
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+    color: white;
+  }
+
 }
