@@ -179,7 +179,7 @@ p {
 
 @media (max-width: 1028px) {
   #title .big-heading {
-    text-align: center;
+    justify-content: center;
   }
 
   #title .container-fluid {
