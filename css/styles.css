@@ -179,7 +179,10 @@ p {
 
 @media (max-width: 1028px) {
   #title .big-heading {
-    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 400;
   }
 
   #title .container-fluid {
