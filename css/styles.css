@@ -161,6 +161,11 @@ p {
 
 /* CTA Section */
 
+#cta .container-fluid {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+}
+
 .cta-heading {
   font-size: 3.5rem;
   font-family: "Montserrat", sans-serif;
