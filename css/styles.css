@@ -140,8 +140,8 @@ p {
 }
 
 .press-logo {
-  width: 15%;
-  margin: 20px 20px 50px;
+  width: 80%;
+  margin: 20px 0 20px 0;
 }
 
 /* Pricing Section */
@@ -216,6 +216,11 @@ p {
   .testimonial-text {
     font-size: 2rem;
     line-height: 1.5;
+  }
+
+  .press-logo {
+    width: 50%;
+    margin: 20px 0 20px 0;
   }
 
   .cta-heading {
