@@ -183,13 +183,13 @@ p {
   padding-bottom: 2%;
 }
 
+.social-icon {
+  margin: 20px 10px;
+}
+
 .copyright {
   padding-top: 2%;
   padding-bottom: 5%;
-}
-
-.social-icon {
-  margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
